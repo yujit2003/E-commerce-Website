@@ -1,9 +1,9 @@
 # MI-DEAL
 ## this is a ful stack functional e commerce website for college students to find your own products.
-### •React based Web-app which allows college students to buy/sell rarely used items.
-### •Allows user to rate the product, apply filters, search for product, select product based on cost range selected.
-### •Login/Registration system where admin role in given access to add and delete product.
-### •Use of `JWT` token, `MONGODB` for storing data, `NODEJS` and `EXPRESSJS` for the backend.
+#### •React based Web-app which allows college students to buy/sell rarely used items.
+#### •Allows user to rate the product, apply filters, search for product, select product based on cost range selected.
+#### •Login/Registration system where admin role in given access to add and delete product.
+#### •Use of `JWT` token, `MONGODB` for storing data, `NODEJS` and `EXPRESSJS` for the backend.
 
 
 
